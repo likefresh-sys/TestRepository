@@ -10,6 +10,20 @@
 - glass-glasses
 - key-keys
 - piano-pianos
-- potato-potatos
+- potato-potatoes
 - ball-balls
 - book-books
+
+№2 Напишите во монжественном числе:
+- duck-ducks
+- ostrich-ostriches
+- parrot-parrots
+- swan-swans
+- turkey-turkeys
+- dolphin-dolphins
+- giraffe-girrafves
+- deer-deers
+- calf-calves
+- fox-foxes
+- mouse-mouses
+- hippo-hippos
