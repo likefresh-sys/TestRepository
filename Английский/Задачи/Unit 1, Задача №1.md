@@ -13,7 +13,7 @@
 - potato-potatoes
 - ball-balls
 - book-books
-
+- 
 №2 Напишите во монжественном числе:
 - duck-ducks
 - ostrich-ostriches
